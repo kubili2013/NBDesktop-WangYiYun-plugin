@@ -1,0 +1,14 @@
+{
+    "name":"网易云音乐插件",
+    "desc":"网易云音乐插件，填写歌单ID，便可以听歌啦。",
+    "type":"desktop-widget",
+    "author":"kubili2013",
+    "main":"index.js",
+    "image":"logo.jpg",
+    "url":"",
+    "setting":{
+        "type":"2",
+        "id":"413961906",
+        "height":66
+    }
+}
