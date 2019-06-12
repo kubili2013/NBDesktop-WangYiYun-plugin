@@ -29,7 +29,6 @@ function loadWangYiYun() {
 }
 
 function settingWangYiYun(){
-    debugger
     wangyiyun_config.setting.id =  $("#wangyiyun_music_id").val();
     wangyiyun_config.setting.type =  $("#wangyiyun_type").val();
     wangyiyun_config.setting.height =  $("#wangyiyun_height").val();
