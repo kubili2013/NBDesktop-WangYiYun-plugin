@@ -1,14 +1,16 @@
 {
-    "name":"网易云音乐插件",
-    "desc":"网易云音乐插件，填写歌单ID，便可以听歌啦。",
-    "type":"desktop-widget",
-    "author":"kubili2013",
-    "main":"index.js",
-    "image":"logo.jpg",
-    "url":"",
-    "setting":{
-        "type":"2",
-        "id":"413961906",
-        "height":66
+    "name": "网易云音乐插件",
+    "desc": "网易云音乐插件，填写歌单ID，便可以听歌啦。",
+    "type": "desktop-widget",
+    "author": "kubili2013",
+    "main": "index.js",
+    "image": "logo.jpg",
+    "setter": "plugin.js",
+    "url": "",
+    "setting": {
+        "type": "0",
+        "id": "2814458391",
+        "height": "430",
+        "autoplay": 1
     }
 }
